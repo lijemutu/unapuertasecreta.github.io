@@ -6,16 +6,27 @@
     <description>Recent content on Una puerta secreta - blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Aug 2022 21:08:53 -0500</lastBuildDate><atom:link href="https://lijemutu.github.io/unapuertasecreta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 20:39:30 -0500</lastBuildDate><atom:link href="https://lijemutu.github.io/unapuertasecreta.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quién es Erick ¿?</title>
+      <title>Juan</title>
+      <link>https://lijemutu.github.io/unapuertasecreta.github.io/public/juan/</link>
+      <pubDate>Tue, 30 Aug 2022 20:39:30 -0500</pubDate>
+      
+      <guid>https://lijemutu.github.io/unapuertasecreta.github.io/public/juan/</guid>
+      <description>Ejemplo para Juan</description>
+    </item>
+    
+    <item>
+      <title>¿Quién es Erick?</title>
       <link>https://lijemutu.github.io/unapuertasecreta.github.io/posts/quiensoy/</link>
       <pubDate>Mon, 29 Aug 2022 21:08:53 -0500</pubDate>
       
       <guid>https://lijemutu.github.io/unapuertasecreta.github.io/posts/quiensoy/</guid>
       <description>La puerta secreta es el titulo de una de mis canciones favoritas de la banda sueca Avatar.
-Estudié física en la Universidad Autónoma del Estado de México, antes de eso era guitarrista y bajista en la escuela de bellas artes y en la preparatoria. Durante mis estudios de física aprendí a programar en lenguajes como fortran, Matlab y C++. En el 2019 aprendí python y me metí de lleno en el mundo de la programación.</description>
+La de blanco es mi mascota llamada Pink, le encanta morder las manos y salir a pasear, me quiere muchisimo pero aun no sabe ir al baño dónde le digo.
+Estudié física en la Universidad Autónoma del Estado de México, antes de eso era guitarrista y bajista en la escuela de bellas artes y en la preparatoria.</description>
     </item>
+    
     
   </channel>
 </rss>
