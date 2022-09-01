@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unapuertasecreta.me/posts/services/</loc>
+    <lastmod>2022-08-31T20:28:16-05:00</lastmod>
+  </url><url>
+    <loc>https://unapuertasecreta.me/posts/</loc>
+    <lastmod>2022-08-31T20:28:16-05:00</lastmod>
+  </url><url>
+    <loc>https://unapuertasecreta.me/</loc>
+    <lastmod>2022-08-31T20:28:16-05:00</lastmod>
+  </url><url>
     <loc>https://unapuertasecreta.me/public/juan/</loc>
     <lastmod>2022-08-30T20:39:30-05:00</lastmod>
   </url><url>
     <loc>https://unapuertasecreta.me/public/</loc>
     <lastmod>2022-08-30T20:39:30-05:00</lastmod>
   </url><url>
-    <loc>https://unapuertasecreta.me/</loc>
-    <lastmod>2022-08-30T20:39:30-05:00</lastmod>
-  </url><url>
     <loc>https://unapuertasecreta.me/posts/quiensoy/</loc>
-    <lastmod>2022-08-29T21:08:53-05:00</lastmod>
-  </url><url>
-    <loc>https://unapuertasecreta.me/posts/</loc>
     <lastmod>2022-08-29T21:08:53-05:00</lastmod>
   </url><url>
     <loc>https://unapuertasecreta.me/archives/</loc>
