@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://unapuertasecreta.me/public/juan/</loc>
+    <loc>https://unapuertasecreta.me/public/juan/</loc>
     <lastmod>2022-08-30T20:39:30-05:00</lastmod>
   </url><url>
-    <loc>http://unapuertasecreta.me/public/</loc>
+    <loc>https://unapuertasecreta.me/public/</loc>
     <lastmod>2022-08-30T20:39:30-05:00</lastmod>
   </url><url>
-    <loc>http://unapuertasecreta.me/</loc>
+    <loc>https://unapuertasecreta.me/</loc>
     <lastmod>2022-08-30T20:39:30-05:00</lastmod>
   </url><url>
-    <loc>http://unapuertasecreta.me/posts/quiensoy/</loc>
+    <loc>https://unapuertasecreta.me/posts/quiensoy/</loc>
     <lastmod>2022-08-29T21:08:53-05:00</lastmod>
   </url><url>
-    <loc>http://unapuertasecreta.me/posts/</loc>
+    <loc>https://unapuertasecreta.me/posts/</loc>
     <lastmod>2022-08-29T21:08:53-05:00</lastmod>
   </url><url>
-    <loc>http://unapuertasecreta.me/archives/</loc>
+    <loc>https://unapuertasecreta.me/archives/</loc>
   </url><url>
-    <loc>http://unapuertasecreta.me/categories/</loc>
+    <loc>https://unapuertasecreta.me/categories/</loc>
   </url><url>
-    <loc>http://unapuertasecreta.me/tags/</loc>
+    <loc>https://unapuertasecreta.me/tags/</loc>
   </url>
 </urlset>

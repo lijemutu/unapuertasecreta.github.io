@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Una puerta secreta - blog</title>
-    <link>http://unapuertasecreta.me/</link>
+    <link>https://unapuertasecreta.me/</link>
     <description>Recent content on Una puerta secreta - blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Aug 2022 20:39:30 -0500</lastBuildDate><atom:link href="http://unapuertasecreta.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 20:39:30 -0500</lastBuildDate><atom:link href="https://unapuertasecreta.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Juan</title>
-      <link>http://unapuertasecreta.me/public/juan/</link>
+      <link>https://unapuertasecreta.me/public/juan/</link>
       <pubDate>Tue, 30 Aug 2022 20:39:30 -0500</pubDate>
       
-      <guid>http://unapuertasecreta.me/public/juan/</guid>
+      <guid>https://unapuertasecreta.me/public/juan/</guid>
       <description>Ejemplo para Juan</description>
     </item>
     
     <item>
       <title>¿Quién es Erick?</title>
-      <link>http://unapuertasecreta.me/posts/quiensoy/</link>
+      <link>https://unapuertasecreta.me/posts/quiensoy/</link>
       <pubDate>Mon, 29 Aug 2022 21:08:53 -0500</pubDate>
       
-      <guid>http://unapuertasecreta.me/posts/quiensoy/</guid>
+      <guid>https://unapuertasecreta.me/posts/quiensoy/</guid>
       <description>La puerta secreta es el titulo de una de mis canciones favoritas de la banda sueca Avatar.
 La de blanco es mi mascota llamada Pink, le encanta morder las manos y salir a pasear, me quiere muchisimo pero aun no sabe ir al baño dónde le digo.
 Estudié física en la Universidad Autónoma del Estado de México, antes de eso era guitarrista y bajista en la escuela de bellas artes y en la preparatoria.</description>
