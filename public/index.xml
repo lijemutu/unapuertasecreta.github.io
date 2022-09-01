@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Publics on Una puerta secreta - blog</title>
-    <link>https://lijemutu.github.io/unapuertasecreta.github.io/public/</link>
+    <link>http://unapuertasecreta.me/public/</link>
     <description>Recent content in Publics on Una puerta secreta - blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Aug 2022 20:39:30 -0500</lastBuildDate><atom:link href="https://lijemutu.github.io/unapuertasecreta.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 20:39:30 -0500</lastBuildDate><atom:link href="http://unapuertasecreta.me/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Juan</title>
-      <link>https://lijemutu.github.io/unapuertasecreta.github.io/public/juan/</link>
+      <link>http://unapuertasecreta.me/public/juan/</link>
       <pubDate>Tue, 30 Aug 2022 20:39:30 -0500</pubDate>
       
-      <guid>https://lijemutu.github.io/unapuertasecreta.github.io/public/juan/</guid>
+      <guid>http://unapuertasecreta.me/public/juan/</guid>
       <description>Ejemplo para Juan</description>
     </item>
     
