@@ -6,7 +6,7 @@
     <description>Recent content on Una puerta secreta - blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Sep 2022 14:39:16 -0500</lastBuildDate><atom:link href="https://unapuertasecreta.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Sep 2022 14:25:35 -0500</lastBuildDate><atom:link href="https://unapuertasecreta.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desde Whatsapp a tu blog</title>
       <link>https://unapuertasecreta.me/posts/services/</link>
@@ -17,6 +17,16 @@
 En la sección de Publicaciones públicas podrás ver una muestra de ejemplos de otras personas.
 Esta no es la única plantilla, puedes usar plantillas como las siguientes para tu blog:
 PaperMod (el que estás viendo) Stack Academic Lovelt Muchos más aquí Contáctame a través de mis redes para darte una prueba gratuita de lo lejos que pueden llegar tus palabras.</description>
+    </item>
+    
+    <item>
+      <title>Simulaciones y enfermedades craneales (Tésis de Licenciatura)</title>
+      <link>https://unapuertasecreta.me/posts/tesis/</link>
+      <pubDate>Thu, 08 Sep 2022 14:25:35 -0500</pubDate>
+      
+      <guid>https://unapuertasecreta.me/posts/tesis/</guid>
+      <description>En el desarrollo de personas o animales un punto crucial es la generación de huesos, específicamente el craneo. Las células que producen y generan el hueso son reguladas por señales externas que les indican dónde, cómo y cuánto producir de hueso, estas señales son mandadas por otras células usando proteínas.
+Existen proteínas para el aumento y la disminución de la producción de hueso, las cuales deben de coexistir en balance para que no ocurran malformaciones, la interacción de estas proteínas entre si se pueden representar por conjuntos de ecuaciones (específicamente ecuaciones diferenciales parciales acopladas no lineales, que largo nombre&amp;hellip;) que se pueden resolver a través de métodos numéricos usando programas computacionales.</description>
     </item>
     
     <item>
