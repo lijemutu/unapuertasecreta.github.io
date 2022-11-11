@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Una puerta secreta - blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Sep 2022 14:38:12 -0500</lastBuildDate><atom:link href="https://unapuertasecreta.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 19:42:20 -0600</lastBuildDate><atom:link href="https://unapuertasecreta.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desde Whatsapp a tu blog</title>
       <link>https://unapuertasecreta.me/posts/services/</link>
@@ -17,6 +17,17 @@
 En la sección de Publicaciones públicas podrás ver una muestra de ejemplos de otras personas.
 Esta no es la única plantilla, puedes usar plantillas como las siguientes para tu blog:
 PaperMod (el que estás viendo) Stack Academic Lovelt Muchos más aquí Contáctame a través de mis redes para darte una prueba gratuita de lo lejos que pueden llegar tus palabras.</description>
+    </item>
+    
+    <item>
+      <title>Modificando el fondo de esta página</title>
+      <link>https://unapuertasecreta.me/posts/background/</link>
+      <pubDate>Thu, 10 Nov 2022 19:42:20 -0600</pubDate>
+      
+      <guid>https://unapuertasecreta.me/posts/background/</guid>
+      <description>Este blog utiliza el framework Hugo con la plantilla PaperMod, por lo que todo es ampliamente configurable. Ahora vamos a modificar el fondo de la página por algo más interesasnte.
+La página addy codes recopila muchisimas otras páginas con contenido para diseño web, de ahí encontré un generador de patrones. El cual elegí el diseño actual ajustando parámetros.
+Integrar el fondo al tema El tema de PaperMod tiene una sección dónde especifica como extender la funcionalidad del mismo usando css propio en este artículo, pero a pesar de dicha función que viene implementada el buscador no pudo encontrar los archivos por más que los colocara en el sitio correcto.</description>
     </item>
     
     <item>
