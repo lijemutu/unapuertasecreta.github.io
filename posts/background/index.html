@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="es" dir="auto">
 
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,6 +22,7 @@ Integrar el fondo al tema El tema de PaperMod tiene una sección dónde especifi
 <link rel="mask-icon" href="https://unapuertasecreta.me/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="es" href="https://unapuertasecreta.me/posts/background/">
 <noscript>
     <style>
         #theme-toggle,
@@ -117,7 +118,7 @@ Integrar el fondo al tema El tema de PaperMod tiene una sección dónde especifi
   ],
   "articleBody": "Este blog utiliza el framework Hugo con la plantilla PaperMod, por lo que todo es ampliamente configurable. Ahora vamos a modificar el fondo de la página por algo más interesasnte.\nLa página addy codes recopila muchisimas otras páginas con contenido para diseño web, de ahí encontré un generador de patrones. El cual elegí el diseño actual ajustando parámetros.\nIntegrar el fondo al tema El tema de PaperMod tiene una sección dónde especifica como extender la funcionalidad del mismo usando css propio en este artículo, pero a pesar de dicha función que viene implementada el buscador no pudo encontrar los archivos por más que los colocara en el sitio correcto.\nTerminé poniendolos en la carpeta de contenido de los posts. Y editando el archivo de css en la carpeta extend (usada para extender el contenido css)\n.dark.list,.dark{ background-image: url(\"../../posts/images/polygon-scatter-haikei.svg\"); background-repeat:repeat; /* background-image: url(\"../../posts/images/wave-haikei.svg\"); */ } Modificar el fondo de los posts Ya que se aplicó al listado y a los posts, tuve que crear un fondo para los posts dónde tenga un contraste para poder leerse correctamente, así como un padding y un border radius.\n.post-single{ background-color: rgb(46, 46, 51); padding: 1em; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; } Y con esto modifiqué la página para verse de mejor manera.\n",
   "wordCount" : "213",
-  "inLanguage": "en",
+  "inLanguage": "es",
   "datePublished": "2022-11-10T19:42:20-06:00",
   "dateModified": "2022-11-10T19:42:20-06:00",
   "author":{
@@ -177,6 +178,12 @@ Integrar el fondo al tema El tema de PaperMod tiene una sección dónde especifi
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="https://unapuertasecreta.me/en/" title="En"
+                            aria-label="En">En</a>
+                    </li>
+                </ul>
             </div>
         </div>
         <ul id="menu">
@@ -197,11 +204,11 @@ Integrar el fondo al tema El tema de PaperMod tiene una sección dónde especifi
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="https://unapuertasecreta.me/">Home</a>&nbsp;»&nbsp;<a href="https://unapuertasecreta.me/posts/">Posts</a></div>
+    <div class="breadcrumbs"><a href="https://unapuertasecreta.me/">Inicio</a>&nbsp;»&nbsp;<a href="https://unapuertasecreta.me/posts/">Posts</a></div>
     <h1 class="post-title">
       Modificando el fondo de esta página
     </h1>
-    <div class="post-meta"><span title='2022-11-10 19:42:20 -0600 CST'>November 10, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Erick López Reynoso
+    <div class="post-meta"><span title='2022-11-10 19:42:20 -0600 CST'>noviembre 10, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Erick López Reynoso
 
 </div>
   </header> 
@@ -236,12 +243,12 @@ Integrar el fondo al tema El tema de PaperMod tiene una sección dónde especifi
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://unapuertasecreta.me/posts/services/">
-    <span class="title">« Prev</span>
+    <span class="title">« Anterior</span>
     <br>
     <span>Desde Whatsapp a tu blog</span>
   </a>
   <a class="next" href="https://unapuertasecreta.me/posts/nameorigin/">
-    <span class="title">Next »</span>
+    <span class="title">Siguiente »</span>
     <br>
     <span>Nameorigin o el origen de los altos puestos</span>
   </a>
